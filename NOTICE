@@ -1,0 +1,26 @@
+análise-qualitativa-saúde
+Pipeline de análise textual qualitativa pelo método Reinert, para pesquisa em
+saúde, no macOS, cruzando um motor Python próprio com o R canônico.
+
+Este projeto é uma reimplementação limpa e auditável do método do software
+labiia_lex, distribuído sob GNU GPL v3. Por herança de licença, este projeto
+também é GPL v3.
+
+Créditos e agradecimentos
+
+labiia_lex (Prof. Rafael Cardoso Sampaio, UFPR)
+https://github.com/cardososampaio/labiia_lex
+Equipe de desenvolvimento do labiia_lex, aqui agradecida integralmente:
+Rafael Cardoso Sampaio, Anderson Henrique (USP), Dalson Figueiredo (UFPE),
+Ian Batista (Carter Center), Leonardo Nascimento (LabUFBA), Nilton Sainz (UFPR)
+e o labiia_lab.
+
+IRaMuTeQ (Pierre Ratinaud)
+Interface de R pour les Analyses Multidimensionnelles de Textes et de
+Questionnaires, base metodológica do método Reinert, distribuído sob GPL.
+
+Método Reinert
+Max Reinert, classificação hierárquica descendente de segmentos de texto.
+
+Este projeto não redistribui os dicionários do IRaMuTeQ nem dados de pesquisa.
+As transcrições e os corpora reais dos estudos não fazem parte deste repositório.

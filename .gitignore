@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Ambientes virtuais
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Saídas de análise (nunca versionar resultados de estudo)
+output/
+
+# Corpora e dados reais de pesquisa (só o sintético de exemplo entra)
+meu_corpus/
+corpus_real/
+*_transcricao*
+metadata.csv
+!corpus_synth/metadata.csv
+
+# Dicionários de terceiros e material protegido
+dict_azevedo/
+extracted/
+dictionaries/
+internal/
+lexique_*.txt
+expression_*.txt
+
+# Chave de anonimização (marcador para nome real)
+chave_*.csv
+chave_*.txt

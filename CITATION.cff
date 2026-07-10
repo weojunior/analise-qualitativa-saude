@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: >-
+  análise-qualitativa-saúde: pipeline Reinert/IRaMuTeQ para pesquisa
+  qualitativa em saúde no macOS
+message: >-
+  Se você usar este software, por favor cite-o e cite também o labiia_lex e o
+  IRaMuTeQ, dos quais o método deriva.
+type: software
+authors:
+  - given-names: Wilson Elias
+    family-names: de Oliveira Junior
+    orcid: https://orcid.org/0000-0001-9812-6282
+license: GPL-3.0
+repository-code: https://github.com/weojunior/analise-qualitativa-saude
+keywords:
+  - análise textual
+  - método Reinert
+  - IRaMuTeQ
+  - pesquisa qualitativa
+  - saúde
+references:
+  - type: software
+    title: labiia_lex
+    authors:
+      - given-names: Rafael
+        family-names: Cardoso Sampaio
+    repository-code: https://github.com/cardososampaio/labiia_lex
+    license: GPL-3.0
+  - type: software
+    title: IRaMuTeQ
+    authors:
+      - given-names: Pierre
+        family-names: Ratinaud
+    license: GPL-2.0

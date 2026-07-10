@@ -1,0 +1,18 @@
+# Núcleo (obrigatório)
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+scikit-learn>=1.3
+matplotlib>=3.7
+networkx>=3.0
+python-docx>=1.1
+yake>=0.4
+
+# Opcionais, só para ler formatos além de .txt/.md/.docx:
+# pdfplumber>=0.11   # entrada .pdf
+# odfpy>=1.4         # entrada .odt
+# openpyxl>=3.1      # entrada .xlsx
+
+# A validação cruzada com R exige R 4.4+ e os pacotes CRAN:
+# ca, ade4, cluster, proxy, Matrix, MASS, irlba, igraph, slam,
+# stringi, textometry, topicmodels
